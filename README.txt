@@ -6,8 +6,6 @@ Overview:
 ---------
 This script connects to the AllSportsAPI to fetch live football standings for Spain's La Liga. It then processes the data and categorizes teams based on their positions for various European competitions and relegation.
 
-Also, the output mentioned in the PPT appears to be based old data. However, The analysis is based on the current live data fetched directly from the AllSportsAPI, ensuring the solution reflects the most up-to-date league standings.
-
 Steps Performed:
 ----------------
 1. Authenticated the API using a free key from AllSportsAPI.

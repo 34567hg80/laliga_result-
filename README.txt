@@ -1,4 +1,3 @@
-BAAR Technologies - Python Assessment (Option 1)
 
 Author: Hritesh Ghosh
 Task: Football League Standings Analysis (Spanish La Liga)
